@@ -11,16 +11,21 @@ nav{
 	justify-content: space-around;
 	align-items: center;
 	height: 70px;
-	background-color: rgb(40, 40, 122);
+	background-color: rgb(73, 73, 156);
 }
 nav ul{
 	display: flex;
-	justify-content: center;	
-
+	justify-content: center;
 }
 nav ul li{
 	list-style: none;
-	margin: 0 23px;
+	margin: 0 23px;	
+}
+ 
+.firstSection{
+	display:flex;
+	justify-content: space-around;
+
 }
 *{
 	margin: 0;
